@@ -1,1 +1,7 @@
-
+flask
+redis
+aiohttp
+beautifulsoup4
+tqdm
+apscheduler
+python-dotenv
